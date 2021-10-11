@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Cigdem Renkli's Progress Journal
 description: This journal is created for IE 582.
+github:
+  is_project_page: true
